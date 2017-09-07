@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+}
+
+
+.App-header {
+  background-color: #fff;
+  height: 10px;
+  padding: 5px;
+  color: white;
+}
+
+.App-intro {
+  font-size: small;
+  font-style: oblique;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+
+/*
+font-family: 'Alfa Slab One', cursive;
+font-family: 'Paytone One', sans-serif;
+font-family: 'Bevan', cursive;
+font-family: 'Ultra', serif;
+font-family: 'Candal', sans-serif;
+
+*/
+
+.headline {
+        font-family: 'Ultra', serif;
+        /*font-size: 48px;*/
+      }
